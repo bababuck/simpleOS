@@ -5,7 +5,7 @@ Designed for an x86 architecture (wanted RISC-V, but doesn't appear that the BIO
 
 Plan:
 
-[ ] Download qemu and get simple boot running.
+[x] Download qemu and get simple boot running.
 
 [ ] Write drivers for the keyboard, screen, and disk.
 
