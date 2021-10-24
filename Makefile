@@ -6,7 +6,7 @@ boot: compile
 compile:
 	rm -rf build
 	mkdir build
-	nasm -f bin test.asm -o build/boot_sect_simple.bin
+	nasm -f bin bootloader.asm -o build/boot_sect_simple.bin
 
 
 
