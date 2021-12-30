@@ -3,6 +3,8 @@ Toy OS to run on qemu. I read a couple textbooks, wanted to make something.
 
 Designed for an x86 architecture (wanted RISC-V, but doesn't appear that the BIOS interface is set up for that). Used Nick Blundell's guide (https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) to get started.
 
+Update: On the back burner for now, will resume once finished with other project.
+
 Plan:
 
 [x] Download qemu and get simple boot running.
